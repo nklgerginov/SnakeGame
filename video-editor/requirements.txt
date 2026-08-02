@@ -1,0 +1,6 @@
+PyQt6>=6.0.0
+moviepy>=1.0.0
+pydub>=0.25.0
+SpeechRecognition>=3.8.0
+vosk>=0.3.0
+numpy>=1.20.0
